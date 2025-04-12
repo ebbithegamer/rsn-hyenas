@@ -17,7 +17,7 @@
 ## Requirements
 * [NodeJS](https://nodejs.org)
 * [Express](https://www.npmjs.com/package/express)
-* [UPDNS](https://www.npmjs.com/package/updns)
+* [UPDNS (To be replaced)](https://www.npmjs.com/package/updns)
 * [MySQL](https://www.mysql.com/downloads/)
 
 ## Installation
