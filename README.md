@@ -1,13 +1,13 @@
-# Hyenas
+# RSN Hyenas
 
 ![Hyenas Screenshot](Screenshot.png?raw=true)
-**Hyenas is the world's first homemade PlayStation®Network emulator for the PS3®**. Look at the `hyenas_modules` (modular system for each domain) folder for files. This project is made for the Javascript programming language running on Node.js.
+**RSN Hyenas is a fork of the world's first homemade PlayStation®Network emulator for the PS3®**. Look at the `hyenas_modules` (modular system for each domain) folder for files. This project is made for the Javascript programming language running on Node.js.
 
 ## Features
 
 - ✓ Authentication that would allow you to play games online ultra fast and mega securely.
 - ✓ Get past the sign-in prompt when playing games online (mocked ticket authentication).
-- ✓ Completely isolated from the actual servers, which means console-bans are a non-issue.
+- ✓ Completely isolated from the actual servers, which means console bans are a non-issue.
 - ✓ Guaranteed to be able to play the games you've played as a kid (with your future children.)
 - ✓ Brings back Web Browser Landing Pages so you can visit that nostalgic game.
 ![Landing Pages](Example2.png?raw=true)
@@ -27,7 +27,7 @@
 ## Testing
 
 Test by rerouting the Sony domains to your local PC IP in the *hosts* example file in the repo copying the contents *to the one in updns approaming folder of node in your User Folder!*  
-Redirect your PC Local IP as your Primary DNS in PS3, and congrats! **Hyenas can communicate with your PS3! (WOO!!)**
+Set your PC's Local IP as your Primary DNS on a PS3 console, and congrats! **Hyenas can communicate with your PS3! (WOO!!)**
 
 `updns start/stop`
 
@@ -35,7 +35,7 @@ Redirect your PC Local IP as your Primary DNS in PS3, and congrats! **Hyenas can
 
 ## Licensing
 
-General Public License v3.0. All trademarks and copyright-written content found belong to their respective owners.
+[General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.en.html). All trademarks and copyright-written content found belong to their respective owners.
 
 ## Media
 
